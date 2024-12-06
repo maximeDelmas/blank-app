@@ -1,0 +1,34 @@
+CID Type	CID code	CID Category	Brief Description	Physical Description of Phenomena	Type
+Heat and Cold	HC1	Mean air temperature	Mean surface air temperature and its diurnal and seasonal cycles.	2, 3, 4	Chronic
+Heat and Cold	HC2	Extreme heat	Episodic high surface air temperature events potentially exacerbated by humidity.	11	Acute
+Heat and Cold	HC3	Cold spell	Episodic cold surface air temperature events potentially exacerbated by wind.	11	Acute
+Heat and Cold	HC4	Frost	Freeze and thaw events near the land surface and their seasonality.	12	Acute
+Wet and Dry	WD1	Mean precipitation	Mean precipitation and its diurnal and seasonal cycles.	2, 8	Chronic
+Wet and Dry	WD2	River flood	Episodic high water levels in streams and rivers driven by basin runoff and the expected seasonal cycle of flooding.	8, 11	Acute
+Wet and Dry	WD3	Heavy precipitation and pluvial flood	High rates of precipitation and resulting episodic, localized flooding of streams and flat lands.	11	Acute
+Wet and Dry	WD4	Landslide	Ground and atmospheric conditions that lead to geological mass movements, including landslide, mudslide and rockfall.	12	Acute
+Wet and Dry	WD5	Aridity	Mean conditions of precipitation and evapotranspiration compared to potential atmospheric and surface water demand, resulting in low mean surface water, low soil moisture and/or low relative humidity.	8, 11	Chronic
+Wet and Dry	WD6	Hydrological drought	Episodic combination of runoff deficit and evaporative demand that affects surface water or groundwater availability.	8, 11	Acute
+Wet and Dry	WD7	Agricultural and ecological drought	Episodic combination of soil moisture supply deficit and atmospheric demand requirements hat challenges the vegetation’s ability to meet its water needs for transpiration and growth. Note: l'agricultural' vs. "ecological" term depends on affected biome.	11, 12	Acute
+Wet and Dry	WD8	Fire weather	Weather conditions conducive to triggering and sustaining wildfires, usually based on a set of indicators and combinations of indicators induding temperature, soil moisture, humidity and wind. Fire weather not include the presence or absence of fuel load. Note: distind from wildfire occurrence and area burned.	11, 12	Acute
+Wind	W1	Mean wind speed	Mean wind speeds and transport patterns and their diurnal and seasonal cycles.	2, 12	Chronic
+Wind	W2	Severe wind storm	Episodic severe storms including extratropical cyclone wind storms, thunderstorms, wind gusts, derechos and tornadoes.	11, 12	Acute
+Wind	W3	Tropical cyclone	Strong, rotating storm originating over tropical oceans accompanied by high winds, rainfall and storm surges.	11	Acute
+Wind	W4	Sand and dust storm	Storms causing the transport of soil and fine dust particles.	8, 12	Acute
+Snow and Ice	SI1	Snow, glacier and ice sheet	Snowpack seasonality and characteristics of glaciers and ice sheets including calving events and meltwater.	2, 9	Chronic
+Snow and Ice	SI2	Permafrost	Permanently frozen deep soil layers, their ice characteristics, and the characteristics of seasonally frozen soils above.	2, 9	Chronic
+Snow and Ice	SI3	Lake, river and sea ice	The seasonality and characteristics of ice formations on the ocean and freshwater bodies of water.	2, 9	Chronic
+Snow and Ice	SI4	Heavy snowfall and ice storm	High snowfall and ice storm events including freezing rain and rain-on-snow conditions.	11, 12	Acute
+Snow and Ice	SI5	Hail	Storms producing solid hailstones.	11, 12	Acute
+Snow and Ice	SI6	Snow avalanche	Cryospheric mass movements and the conditions of collapsing snowpack.	12	Chronic
+Coastal	C1	Relative sea level	The local mean sea surface height relative to the local solid surface.	9	Chronic
+Coastal	C2	Coastal flood	Flooding driven by episodic high coastal water levels that result from a combination of relative sea rise, tides, storm surge and wave setup.	9, 12	Acute
+Coastal	C3	Coastal erosion	Long term or episodic change in shoreline position caused by relative sea level rise, nearshore currents, waves and storm surge.	12	Chronic
+Open Ocean	OO1	Mean ocean temperature	Mean temperature profile of ocean through the seasons, including heat content at different depths and associated stratification.	2, 9	Chronic
+Open Ocean	OO2	Marine heatwave	Episodic extreme ocean temperatures.	9, 12	Acute
+Open Ocean	OO3	Ocean acidity	Profile of ocean water pH levels and accompanying concentrations of carbonate and bicarbonate ions.	5	Chronic
+Open Ocean	OO4	Ocean salinity	Profile of ocean salinity and associated seasonal stratification. Note: distinct from salinization of freshwater resources.	2, 5	Chronic
+Open Ocean	OO5	Dissolved oxygen	Profile of ocean water dissolved oxygen and episodic low oxygen events.	5	Chronic
+Other	O1	Air pollution weather	Atmospheric conditions that increase the likelihood of high particulate matter or ozone concentrations or chemical processes generating air pollutants. Note: distinct from aerosol emissions or air pollution concentrations themselves.	6	Chronic
+Other	O2	Atmospheric CO2 at surface	Concentration of atmospheric carbon dioxide (CO2) at the surface. Note: distinct from overall radiative effect of CO2 as greenhouse gas	5	Chronic
+Other	O3	Radiation at surface	Balance of net shortwave, longwave and ultraviolet radiation at the Earth's surface and their diurnal and seasonal patterns.	7	Chronic

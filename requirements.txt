@@ -1,1 +1,5 @@
 streamlit
+pandas
+litellm<=1.43.0
+openai<=1.34.0
+dspy-ai==2.5.3

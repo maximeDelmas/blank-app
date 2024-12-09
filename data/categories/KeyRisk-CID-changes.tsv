@@ -1,0 +1,133 @@
+Region	CID code	Direction
+Mediterranean (MED)	HC1	HCI
+Mediterranean (MED)	HC2	HCI
+Mediterranean (MED)	HC3	HCD
+Mediterranean (MED)	HC4	HCD
+Mediterranean (MED)	WD1	HCD
+Mediterranean (MED)	WD2	MCD
+Mediterranean (MED)	WD3	MCI
+Mediterranean (MED)	WD4	LCDC
+Mediterranean (MED)	WD5	HCI
+Mediterranean (MED)	WD6	HCI
+Mediterranean (MED)	WD7	HCI
+Mediterranean (MED)	WD8	HCI
+Mediterranean (MED)	W1	HCD
+Mediterranean (MED)	W2	MCI
+Mediterranean (MED)	W3	NR
+Mediterranean (MED)	W4	LCDC
+Mediterranean (MED)	SI1	HCD
+Mediterranean (MED)	SI2	HCD
+Mediterranean (MED)	SI3	HCD
+Mediterranean (MED)	SI4	LCDC
+Mediterranean (MED)	SI5	LCDC
+Mediterranean (MED)	SI6	LCDC
+Mediterranean (MED)	C1	HCI
+Mediterranean (MED)	C2	HCI
+Mediterranean (MED)	C3	HCI
+Mediterranean (MED)	OO1	NR
+Mediterranean (MED)	OO2	HCI
+Mediterranean (MED)	OO3	HCI
+Mediterranean (MED)	OO4	NR
+Mediterranean (MED)	OO5	NR
+Mediterranean (MED)	O1	LCDC
+Mediterranean (MED)	O2	HCI
+Mediterranean (MED)	O3	MCI
+Western and Central Europe (WCE)	HC1	HCI
+Western and Central Europe (WCE)	HC2	HCI
+Western and Central Europe (WCE)	HC3	HCD
+Western and Central Europe (WCE)	HC4	HCD
+Western and Central Europe (WCE)	WD1	LCDC
+Western and Central Europe (WCE)	WD2	HCI
+Western and Central Europe (WCE)	WD3	HCI
+Western and Central Europe (WCE)	WD4	LCDC
+Western and Central Europe (WCE)	WD5	LCDC
+Western and Central Europe (WCE)	WD6	MCI
+Western and Central Europe (WCE)	WD7	MCI
+Western and Central Europe (WCE)	WD8	MCI
+Western and Central Europe (WCE)	W1	LCDC
+Western and Central Europe (WCE)	W2	MCI
+Western and Central Europe (WCE)	W3	NR
+Western and Central Europe (WCE)	W4	LCDC
+Western and Central Europe (WCE)	SI1	HCD
+Western and Central Europe (WCE)	SI2	HCD
+Western and Central Europe (WCE)	SI3	HCD
+Western and Central Europe (WCE)	SI4	LCDC
+Western and Central Europe (WCE)	SI5	LCDC
+Western and Central Europe (WCE)	SI6	LCDC
+Western and Central Europe (WCE)	C1	HCI
+Western and Central Europe (WCE)	C2	HCI
+Western and Central Europe (WCE)	C3	HCI
+Western and Central Europe (WCE)	OO1	NR
+Western and Central Europe (WCE)	OO2	HCI
+Western and Central Europe (WCE)	OO3	HCI
+Western and Central Europe (WCE)	OO4	NR
+Western and Central Europe (WCE)	OO5	NR
+Western and Central Europe (WCE)	O1	LCDC
+Western and Central Europe (WCE)	O2	HCI
+Western and Central Europe (WCE)	O3	LCDC
+Eastern Europe (EEU)	HC1	HCI
+Eastern Europe (EEU)	HC2	HCI
+Eastern Europe (EEU)	HC3	HCD
+Eastern Europe (EEU)	HC4	HCD
+Eastern Europe (EEU)	WD1	LCDC
+Eastern Europe (EEU)	WD2	MCD
+Eastern Europe (EEU)	WD3	HCI
+Eastern Europe (EEU)	WD4	LCDC
+Eastern Europe (EEU)	WD5	LCDC
+Eastern Europe (EEU)	WD6	LCDC
+Eastern Europe (EEU)	WD7	LCDC
+Eastern Europe (EEU)	WD8	MCI
+Eastern Europe (EEU)	W1	LCDC
+Eastern Europe (EEU)	W2	MCI
+Eastern Europe (EEU)	W3	NR
+Eastern Europe (EEU)	W4	LCDC
+Eastern Europe (EEU)	SI1	HCD
+Eastern Europe (EEU)	SI2	NR
+Eastern Europe (EEU)	SI3	HCD
+Eastern Europe (EEU)	SI4	LCDC
+Eastern Europe (EEU)	SI5	LCDC
+Eastern Europe (EEU)	SI6	LCDC
+Eastern Europe (EEU)	C1	NR
+Eastern Europe (EEU)	C2	NR
+Eastern Europe (EEU)	C3	NR
+Eastern Europe (EEU)	OO1	NR
+Eastern Europe (EEU)	OO2	NR
+Eastern Europe (EEU)	OO3	NR
+Eastern Europe (EEU)	OO4	NR
+Eastern Europe (EEU)	OO5	NR
+Eastern Europe (EEU)	O1	LCDC
+Eastern Europe (EEU)	O2	HCI
+Eastern Europe (EEU)	O3	LCDC
+Northern Europe (NEU)	HC1	HCI
+Northern Europe (NEU)	HC2	HCI
+Northern Europe (NEU)	HC3	HCD
+Northern Europe (NEU)	HC4	HCD
+Northern Europe (NEU)	WD1	HCI
+Northern Europe (NEU)	WD2	MCD
+Northern Europe (NEU)	WD3	HCI
+Northern Europe (NEU)	WD4	LCDC
+Northern Europe (NEU)	WD5	HCD
+Northern Europe (NEU)	WD6	LCDC
+Northern Europe (NEU)	WD7	LCDC
+Northern Europe (NEU)	WD8	LCDC
+Northern Europe (NEU)	W1	MCD
+Northern Europe (NEU)	W2	MCI
+Northern Europe (NEU)	W3	NR
+Northern Europe (NEU)	W4	NR
+Northern Europe (NEU)	SI1	HCD
+Northern Europe (NEU)	SI2	HCD
+Northern Europe (NEU)	SI3	HCD
+Northern Europe (NEU)	SI4	LCDC
+Northern Europe (NEU)	SI5	LCDC
+Northern Europe (NEU)	SI6	LCDC
+Northern Europe (NEU)	C1	HCI
+Northern Europe (NEU)	C2	HCI
+Northern Europe (NEU)	C3	HCI
+Northern Europe (NEU)	OO1	NR
+Northern Europe (NEU)	OO2	HCI
+Northern Europe (NEU)	OO3	HCI
+Northern Europe (NEU)	OO4	NR
+Northern Europe (NEU)	OO5	NR
+Northern Europe (NEU)	O1	LCDC
+Northern Europe (NEU)	O2	HCI
+Northern Europe (NEU)	O3	MCD

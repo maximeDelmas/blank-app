@@ -1,9 +1,13 @@
 import os
 import json
 import dspy
+import litellm
 import pandas as pd
 import streamlit as st
 from app.call_llm import ClimateChangeDriverInfer
+
+
+litellm.set_verbose=True 
 
 st.set_page_config(
     layout="centered",
